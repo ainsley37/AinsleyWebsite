@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,500&display=swap');
 
+/* Home Page */
 * {
     box-sizing: border-box; 
     margin: 0; 
@@ -60,6 +61,7 @@ button:hover {
     padding: 70px 70px 70px 70px; 
 }
 
+/* Projects Page */
 .projects_title {
     color: white; 
     text-align: center; 
