@@ -56,10 +56,10 @@ button:hover {
 
 .background_image {
     background-image: url("/Downloads/Microgravity/Pictures/HoustonPic2.jpeg");
+    height: 500px; 
+    background-position: center; 
+    background-size: cover; 
 }
-
-
-
 
 .about {
     color: white; 
