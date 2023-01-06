@@ -48,11 +48,15 @@ button:hover {
     background-color: rgba(0,136,169,0.8);
 }
 
-.title {
+.header {
     color: white;
     text-align: center; 
     padding: 70px 70px 70px 70px; 
+}
+
+.title_image {
     background-image: url("/Downloads/Microgravity/Pictures/HoustonPic2.jpeg");
+    height: 250px; 
 }
 
 .about {
