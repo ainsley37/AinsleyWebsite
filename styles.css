@@ -53,17 +53,12 @@ h1 {
     text-align: center; 
 }
 
-h2 {
-    color: white;
-    text-align: left; 
-}
-
 h3 {
     color: white; 
     text-align: center; 
 }
 
-p {
+.about {
     color: white; 
-    text-align: center; 
+    text-align: left; 
 }
