@@ -48,12 +48,12 @@ button:hover {
     background-color: rgba(0,136,169,0.8);
 }
 
-.title {
+h1 {
     color: white;
     text-align: center; 
 }
 
-.description {
+h3 {
     color: white; 
     text-align: center; 
 }
