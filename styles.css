@@ -55,11 +55,6 @@ button:hover {
     font-size: 70px;
 }
 
-.title_image {
-    background-image: url("Downloads/Microgravity/Pictures/HoustonPic2.jpeg");
-    height: 250px; 
-}
-
 .about {
     color: white; 
     text-align: left; 
