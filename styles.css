@@ -52,13 +52,7 @@ button:hover {
     color: white;
     text-align: center; 
     padding: 70px 70px 70px 70px; 
-}
-
-.background_image {
     background-image: url("/Downloads/Microgravity/Pictures/HoustonPic2.jpeg");
-    height: 500px; 
-    background-position: center; 
-    background-size: cover; 
 }
 
 .about {
