@@ -50,10 +50,10 @@ button:hover {
 
 .title {
     color: white;
-    align-items: center; 
+    text-align: center; 
 }
 
 .description {
     color: white; 
-    align-items: center; 
+    text-align: center; 
 }
