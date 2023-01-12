@@ -61,10 +61,16 @@ button:hover {
     padding: 70px 70px 70px 70px; 
 }
 
-.skills {
+.skills_title {
     color: white; 
     text-align: left; 
     padding: 70px 70px 70px 70px; 
+}
+
+.skills_list {
+    color: white; 
+    text-align: left; 
+    padding: 50px 50px 50px 50px; 
 }
 
 .projects {
