@@ -61,6 +61,18 @@ button:hover {
     padding: 70px 70px 70px 70px; 
 }
 
+.skills {
+    color: white; 
+    text-align: left; 
+    padding: 70px 70px 70px 70px; 
+}
+
+.projects {
+    color: white; 
+    text-align: left; 
+    padding: 70px 70px 70px 70px; 
+}
+
 /* Projects Page */
 .projects_title {
     color: white; 
@@ -73,4 +85,6 @@ button:hover {
     text-align: left; 
     padding: 50px 50px 50px 50px; 
 }
+
+
 
