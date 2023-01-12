@@ -61,6 +61,12 @@ button:hover {
     padding: 70px 70px 70px 70px; 
 }
 
+.about_me_image {
+    image-orientation: inherit;
+    align-items: right;
+    padding: 70px 70px 70px 70px; 
+}
+
 .skills_title {
     color: white; 
     text-align: left; 
